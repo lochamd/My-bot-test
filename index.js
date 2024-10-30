@@ -86,7 +86,7 @@ let up = `*❖ BLACK-LEAUGE-MD ❖ Connected Successfully!* ✅
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴɪʟᴀ ʟᴏᴄʜᴀɴᴀ*`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://iili.io/dbFAKoG.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/d63bcde8746a77e1a10ef.jpg` }, caption: up })
 
 }
 })
