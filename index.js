@@ -74,7 +74,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `*❖ DARK-NETHU-MD ❖ Connected Successfully!* ✅ 
+let up = `*❖ BLACK-LEAUGE-MD ❖ Connected Successfully!* ✅ 
 
 🌟 *Welcome to LOCHA-MD!* 🌟
 
@@ -102,7 +102,7 @@ await conn.readMessages([mek.key])
 //=========autobio=======//
 if (config.AUTO_BIO === 'true'){
                await
-conn.updateProfileStatus(`❖  LOCHA 𝗠𝗗 ❖ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!`)
+conn.updateProfileStatus(`❖  𝗕𝗟𝗔𝗖𝗞 𝗟𝗘𝗔𝗨𝗚𝗘 𝗠𝗗 ❖ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!`)
  }
 const m = sms(conn, mek)
 const type = getContentType(mek.message)
