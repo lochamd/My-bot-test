@@ -7,7 +7,6 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 MONGODB: process.env.MONGODB || "",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/3f7249eb429c8211cbba3.jpg",
 AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
 AUTO_BIO:"true",
 AUTO_VOICE:"true",
